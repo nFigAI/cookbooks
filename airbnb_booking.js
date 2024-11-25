@@ -1,5 +1,5 @@
 import { chromium } from "playwright";
-import { NfigClient } from './nfig-sdk/dist/esm/index.js';
+import { NfigClient } from 'nfig-sdk';
 import { z } from "zod";
 
 
