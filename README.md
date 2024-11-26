@@ -32,13 +32,14 @@ Generate screen recordings of user journeys automatically.
 We believe Nfig is all about what you can imagine!
 If you have ideas, bug reports, or pull requests, we’d love to hear from you.
 
-**discord link** https://discord.gg/Zg3BkvvQwP
+
 
 Fork the repo.
 Create a branch: git checkout -b my-feature.
 Submit a PR to main.
 ## 🤝 Join the Community
 Need help or want to share what you’ve built? Join us on Discord to connect with the team and other builders!
+**discord link** https://discord.gg/Zg3BkvvQwP
 
 
 ## 📜 License
